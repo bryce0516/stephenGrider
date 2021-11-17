@@ -1,0 +1,4 @@
+/map/node_modules
+/map/dist
+/map/.parcel-cache
+/map/package-lock.json
