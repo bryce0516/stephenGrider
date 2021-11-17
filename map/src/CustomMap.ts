@@ -31,8 +31,7 @@ export class CustomMap {
       const infoWindow = new google.maps.InfoWindow({
         content: "Hi there",
       });
-
-      infoWindow.open(this.googleMap);
+      infoWindow.open(this.googleMap, marker);
     });
   }
 }
