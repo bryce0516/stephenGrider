@@ -2,3 +2,7 @@
 /map/dist
 /map/.parcel-cache
 /map/package-lock.json
+
+/sort/node_modules
+/sort/build
+/sort/package-lock.json
