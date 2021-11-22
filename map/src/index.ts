@@ -1,5 +1,5 @@
 import { User } from "./User";
-import { Company } from "./Compant";
+import { Company } from "./Company";
 import { CustomMap } from "./CustomMap";
 console.log("hi there");
 
