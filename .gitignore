@@ -6,3 +6,7 @@
 /sort/node_modules
 /sort/build
 /sort/package-lock.json
+
+/stats/node_modules
+/stats/build
+/stats/package-lock.json
