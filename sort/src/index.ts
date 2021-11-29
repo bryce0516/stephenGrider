@@ -21,6 +21,5 @@ console.log(numbersCollection.data);
 // linkedList.add(-3);
 // linkedList.add(4);
 
-// const sorter = new Sorter(linkedList);
-// sorter.sort();
+// linkedList.sort();
 // linkedList.print();
