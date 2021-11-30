@@ -10,3 +10,9 @@
 /stats/node_modules
 /stats/build
 /stats/package-lock.json
+
+/web/node_modules
+/web/build
+/web/package-lock.json
+/web/.parcel-cache
+/web/dist
